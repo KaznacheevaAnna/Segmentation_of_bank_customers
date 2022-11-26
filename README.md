@@ -1,0 +1,2 @@
+# Segmentation_of_bank_customers
+Сегментирование клиентов банка
